@@ -1,1 +1,1 @@
-console.log("Es geht richtig gut!!!");
+console.log("Es geht!!!");
